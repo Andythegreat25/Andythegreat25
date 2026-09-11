@@ -1,28 +1,94 @@
-# 💫 About Me:
-🔧 Attualmente sto lavorando a<br><br>Sviluppo di siti web personalizzati per piccole e medie imprese<br>Implementazione di sistemi di prenotazione su misura per liberi professionisti<br><br>👥 Cerco collaborazioni per<br><br>Progetti innovativi nel campo del web development<br>Soluzioni digitali creative per aziende locali<br><br>🤝 Cerco aiuto con<br><br>Esplorare nuove tecnologie e framework emergenti<br>Migliorare le mie competenze in vibe coding e design interattivo<br><br>🌱 Attualmente sto imparando<br><br>Le ultime tendenze nello sviluppo web<br>Nuove tecniche di coding e best practices per ottimizzare l'esperienza utente<br><br>💬 Chiedimi di<br><br>Sviluppo web e creazione di siti aziendali<br>Sistemi di prenotazione online<br>Come digitalizzare la tua attività<br><br>⚡ Curiosità<br><br>Non smetto mai di esplorare: per me ogni progetto è un'opportunità per scoprire qualcosa di nuovo nel mondo dell'informatica!
+<div align="center">
 
+<p><code>andythegreat25@github ~ $ ./maintainer.sh</code></p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andythegreat__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andreaaddey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrea.addey@outlook.com) 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=andythegreat25&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F150174837%3Fu%3Dcc9199277212431a75947bd174c7e7c88f6a6e2a%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/system-scan?username=andythegreat25&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F150174837%3Fu%3Dcc9199277212431a75947bd174c7e7c88f6a6e2a%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Andrea Addey animated maintainer system scan" />
+</picture>
+</p>
+</div>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Andythegreat25&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Andythegreat25&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Andythegreat25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h2>Why I build in public</h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Focus</h3><p><code>TypeScript</code> · <code>JavaScript</code> · <code>CSS</code></p></td>
+<td width="33%" valign="top"><h3>Proof</h3><p>7 public repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Contribution</h3><p>86 contributions · 14 active days</p></td>
+</tr>
+</table>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Andythegreat25&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p>Tecnico Informatico con 5 anni di esperienza.</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Andythegreat25&icon=0&color=0)](https://visitcount.itsvg.in)
+<h2>Open-source toolbox</h2>
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@andyking1998) 
+<p><code>andythegreat25@github ~ $ toolbox --list</code></p>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=andythegreat25&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F150174837%3Fu%3Dcc9199277212431a75947bd174c7e7c88f6a6e2a%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=andythegreat25&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F150174837%3Fu%3Dcc9199277212431a75947bd174c7e7c88f6a6e2a%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="Andrea Addey open-source technology toolbox" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="17%" align="center"><strong>TypeScript</strong><br /><sub>56%</sub></td>
+<td width="17%" align="center"><strong>JavaScript</strong><br /><sub>31%</sub></td>
+<td width="17%" align="center"><strong>CSS</strong><br /><sub>8%</sub></td>
+<td width="17%" align="center"><strong>HTML</strong><br /><sub>3%</sub></td>
+<td width="17%" align="center"><strong>kvlang</strong><br /><sub>1%</sub></td>
+<td width="17%" align="center"><strong>Python</strong><br /><sub>1%</sub></td>
+</tr>
+</table>
+
+<h2>Repositories worth exploring</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=andythegreat25&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F150174837%3Fu%3Dcc9199277212431a75947bd174c7e7c88f6a6e2a%26v%3D4&repos=andythegreat25%2FEliosMotore%2Candythegreat25%2Fconoscermi%2Candythegreat25%2Felios_calendar%2Candythegreat25%2FPrompt_Engineering%2Candythegreat25%2Fsurvey-ai-azienda&v=oss-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=andythegreat25&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F150174837%3Fu%3Dcc9199277212431a75947bd174c7e7c88f6a6e2a%26v%3D4&repos=andythegreat25%2FEliosMotore%2Candythegreat25%2Fconoscermi%2Candythegreat25%2Felios_calendar%2Candythegreat25%2FPrompt_Engineering%2Candythegreat25%2Fsurvey-ai-azienda&v=oss-projects-1&mode=dark" width="860" alt="Andrea Addey maintainer repositories" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><h3><a href="https://github.com/Andythegreat25/conoscermi">conoscermi</a></h3><p>APP personale di no-contact e miglioramento e crescita personale.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/Andythegreat25/elios_calendar">elios_calendar</a></h3><p>agenda aziendale</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/Andythegreat25/Prompt_Engineering">Prompt_Engineering</a></h3><p>Bozze prompt per LLM</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/Andythegreat25/survey-ai-azienda">survey-ai-azienda</a></h3><p>Assessment AI aziendale</p><p><sub>HTML · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Contribution activity</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=andythegreat25&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F150174837%3Fu%3Dcc9199277212431a75947bd174c7e7c88f6a6e2a%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=andythegreat25&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F150174837%3Fu%3Dcc9199277212431a75947bd174c7e7c88f6a6e2a%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="Andrea Addey open-source signal" />
+</picture>
+</p>
+
+<h2>Contribution trail</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=andythegreat25&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F150174837%3Fu%3Dcc9199277212431a75947bd174c7e7c88f6a6e2a%26v%3D4&v=oss-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=andythegreat25&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F150174837%3Fu%3Dcc9199277212431a75947bd174c7e7c88f6a6e2a%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="Andrea Addey contribution trail" />
+</picture>
+</p>
+
+<hr />
+
+<h2>Contribute together</h2>
+
+<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
+
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=andythegreat25&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F150174837%3Fu%3Dcc9199277212431a75947bd174c7e7c88f6a6e2a%26v%3D4&v=oss-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=andythegreat25&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F150174837%3Fu%3Dcc9199277212431a75947bd174c7e7c88f6a6e2a%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="Andrea Addey community links" />
+</picture></p>
+<p align="center"><a href="https://github.com/andythegreat25">GitHub</a> &nbsp;·&nbsp; <a href="https://andreaaddey.it">Website</a></p>
+<p align="center"><sub>Andrea Addey · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
